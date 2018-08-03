@@ -11,11 +11,9 @@ using System.Text;
 using System.IO;
 
 using UnityEngine;
-using PartToolsLib;
 
 namespace Chrononaut
 {
-    using PartToolsLib;
     using System;
     using System.Collections;
     using System.Collections.Generic;
@@ -37,7 +35,7 @@ namespace Chrononaut
 
         private void LoadConfig()
         {
-            Debug.Log("*** Chrononaut_v0.3.0:LoadConfig ***");
+            Debug.Log("*** Chrononaut:LoadConfig ***");
 
             // Load the settings file
             ConfigNode settings = ConfigNode.Load(KSPUtil.ApplicationRootPath + "GameData/Chrononaut/Settings.cfg");
@@ -171,7 +169,7 @@ namespace Chrononaut
             // React to key presses from the user
             if (Input.GetKeyDown(keyReloadVessel))
             {
-                Debug.Log("*** Chrononaut_v0.3.0:UpdateVessel ***");
+                Debug.Log("*** Chrononaut:UpdateVessel ***");
 
                 // GameDatabase.Instance.StartCoroutine("LoadObjects");
 
