@@ -38,7 +38,7 @@ namespace Chrononaut
             Debug.Log("*** Chrononaut:LoadConfig ***");
 
             // Load the settings file
-            ConfigNode settings = ConfigNode.Load(KSPUtil.ApplicationRootPath + "GameData/Chrononaut/Settings.cfg");
+			ConfigNode settings = ConfigNode.Load(Path.Combine(KSPUtil.ApplicationRootPath,"PluginData/Chrononaut/Settings.cfg"));
             if (settings == null)
                 Debug.LogError("Failed to open settings file");
             else
