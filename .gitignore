@@ -1,0 +1,8 @@
+.vs
+GameData/**/CHANGE_LOG.md
+GameData/**/Chrononaut.version
+GameData/**/README.md
+GameData/**/Plugins/*.dll
+*/obj
+*/Version.cs
+bin
