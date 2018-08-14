@@ -4,5 +4,5 @@ GameData/**/Chrononaut.version
 GameData/**/README.md
 GameData/**/Plugins/*.dll
 */obj
-*/Version.cs
+**/Properties/Version.cs
 bin
