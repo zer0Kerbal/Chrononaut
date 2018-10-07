@@ -38,9 +38,29 @@ In flight mode, press F8 to reload the models of the parts in your current vesse
 * will not load textures that were added (in contrast to updated) after the game was started
 * breaks the functionality of engines and other complex objects in flight
 
-### License 
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+## Installation
+
+To install, place the GameData folder inside your Kerbal Space Program folder.
+
+**REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**.
+
+### Dependencies
+<!--
+* Hard Dependencies
+	* [KSP API Extensions/L](https://github.com/net-lisias-ksp/KSPAPIExtensions) 2.0 or newer
+-->
+None at the moment. :)
+
+### Licensing
+This work is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). See [here](./LICENSE)
+
++ You are free to:
+	- Share : copy and redistribute the material in any medium or format
+	- Adapt : remix, transform, and build upon the material for any purpose, even commercially.
++ Under the following terms:
+	- Attribution : You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in a ny reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+	- ShareAlike : If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 
 ## UPSTREAM
