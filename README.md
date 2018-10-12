@@ -6,8 +6,8 @@ Reload single models run-time. Unofficial fork by Lisias.
 ## In a Hurry
 
 * [Latest Release](https://github.com/net-lisias-kspu/Chrononaut/releases)
+    + [Binaries](https://github.com/net-lisias-kspu/Chrononaut/tree/Archive)
 * [Source](https://github.com/net-lisias-kspu/Chrononaut)
-* [Binaries](https://github.com/net-lisias-kspu/Chrononaut/tree/Archive)
 * [Change Log](./CHANGE_LOG.md)
 
 
