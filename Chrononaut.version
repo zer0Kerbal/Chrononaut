@@ -1,14 +1,14 @@
 {
-	"NAME":"Chrononaut Unofficial",
-	"URL":"https://github.com/net-lisias-kspu/Chrononaut/Chrononaut.version",
-	"DOWNLOAD":"https://github.com/net-lisias-kspu/Chrononaut/releases"
-	"CHANGE_LOG":"https://github.com/net-lisias-kspu/Chrononaut/CHANGE_LOG.md"
-	"CHANGE_LOG_URL":"https://github.com/net-lisias-kspu/Chrononaut/CHANGES.md"
 	"GITHUB":{
 		"USERNAME":"net-lisias-kspu",
 		"REPOSITORY":"Chrononaut",
 		"ALLOW_PRE_RELEASE":false
 		},
+	"NAME"		: "Chrononaut Unofficial",
+	"URL"		: "https://github.com/net-lisias-kspu/Chrononaut/Chrononaut.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-kspu/Chrononaut/releases",
+	"CHANGE_LOG"	: "https://github.com/net-lisias-kspu/Chrononaut/CHANGE_LOG.md",
+	"CHANGE_LOG_URL":"https://github.com/net-lisias-kspu/Chrononaut/CHANGES.md",
 	"VERSION":{
 		"MAJOR":0,
 		"MINOR":4,
